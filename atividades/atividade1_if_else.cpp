@@ -5,7 +5,8 @@
 int main(){
 	setlocale(LC_ALL, "Portuguese");
 int num1,num2,num3;
-printf("Heloisa Gonçalves da Silva\n");
+printf("Heloisa Gonçalves da Silva\n\n");
+
 printf("Digite o primeiro numero: ");
   scanf("%d", &num1);
 printf("Digite o segundo numero: ");
